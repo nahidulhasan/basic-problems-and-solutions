@@ -10,3 +10,18 @@ Come up with an asymptotically optimal solution and analyze the time and space c
 input:  arr = ['x','y','z'], str = "xyyzyzyx"
 
 output: "zyx"
+
+```
+
+**Constraints:**
+
+-   **[time limit] 5000ms**
+    
+-   **[input] array.character**  `arr`
+    
+    -   1 ≤ arr.length ≤ 30
+-   **[input] string**  `str`
+    
+    -   1 ≤ str.length ≤ 500
+-   **[output] string**
+
